@@ -1,4 +1,4 @@
-# Generic Timesheet for Time-Tracking a Two-week Pay Period
+# Generic Excel Timesheet for Time-Tracking a Two-week Pay Period
 
 This timesheet is designed specifically for professionals seeking to track hours-worked. The purpose of the timesheet is to give one a personal records of time worked. One should keep it honest and accurate. Each spreadsheet is two work-weeks, so this is built for a bi-weekly payroll (26 pay periods per year).
 
